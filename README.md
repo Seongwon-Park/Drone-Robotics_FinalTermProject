@@ -18,14 +18,11 @@ Gachon University 2020 Fall semester
 * Demo Video: [Video4](https://drive.google.com/file/d/1X6E-v5ac14ctKGcTruY0jHRJaVdckNnJ/view?usp=sharing)
 
 # Preview
-* Turtle Bot Image
-![ScreenShot](Selfi_Mode/Selfi_Mode_img_5.jpg)
-
 * Map
-![ScreenShot](Half_Mode/Half_Mode_img_5.jpg)
+![ScreenShot](map.pmg)
 
 * Navigation
-![ScreenShot](Full_Mode/Full_Mode_img_5.jpg)
+![ScreenShot](navigation.jpg)
 
 # Environment
 * OS: VMware Ubuntu LTS 16.04 in Windows 10
