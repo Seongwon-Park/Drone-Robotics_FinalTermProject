@@ -17,13 +17,6 @@ Gachon University 2020 Fall semester
 * Navigation: [Video3](https://drive.google.com/file/d/1qaVOjDZr-Q85A_sAbB6Edzm1jkSOOE5L/view?usp=sharing)
 * Demo Video: [Video4](https://drive.google.com/file/d/1X6E-v5ac14ctKGcTruY0jHRJaVdckNnJ/view?usp=sharing)
 
-# Preview
-* Map
-![ScreenShot](map.pmg)
-
-* Navigation
-![ScreenShot](navigation.jpg)
-
 # Environment
 * OS: VMware Ubuntu LTS 16.04 in Windows 10
 * ROS: ROS-kinetic
