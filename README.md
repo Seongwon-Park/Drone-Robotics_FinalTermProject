@@ -1,2 +1,33 @@
-# Drone-Robotics_FinalTermProject
- Gachon University 2020 Fall semester
+# Drone-and-Robotics
+Gachon University 2020 Fall semester
+
+* Introduction : 2020 Fall semester Drone and Robotics Final Project
+* Concept : Navigation Turtle bot
+* Member : Park Seong Won, Yoo Dong Seop
+* Task : Build a map, and navigate the destination
+
+# Algorithm
+1. Build a map using user's manual input.
+2. Set the start point and destination point.
+3. Turtle bot is automatically navigate to the destination.
+
+# Video (2020/11/06 Fri.)
+* Make Turtle Bot: [Video1](https://drive.google.com/file/d/1zLqF6_0hI2s59hDbz6tWlQigPG6EHMkm/view?usp=sharing)
+* Map Building: [Video2](https://drive.google.com/file/d/1a-xqVrOwDMxeBTodeVB-DQSqwjxVYNr6/view?usp=sharing)
+* Navigation: [Video3]
+* Demo Video: [Video4]
+
+# Preview
+* Turtle Bot Image
+![ScreenShot](Selfi_Mode/Selfi_Mode_img_5.jpg)
+
+* Map
+![ScreenShot](Half_Mode/Half_Mode_img_5.jpg)
+
+* Navigation
+![ScreenShot](Full_Mode/Full_Mode_img_5.jpg)
+
+# Environment
+* OS: VMware Ubuntu LTS 16.04 in Windows 10
+* ROS: ROS-kinetic
+* Turtle bot model: Turtle Bot 3
