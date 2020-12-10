@@ -12,10 +12,10 @@ Gachon University 2020 Fall semester
 3. Turtle bot is automatically navigate to the destination.
 
 # Video (2020/11/06 Fri.)
-* Make Turtle Bot: [Video1](https://drive.google.com/file/d/1zLqF6_0hI2s59hDbz6tWlQigPG6EHMkm/view?usp=sharing)
-* Map Building: [Video2](https://drive.google.com/file/d/1a-xqVrOwDMxeBTodeVB-DQSqwjxVYNr6/view?usp=sharing)
-* Navigation: [Video3]
-* Demo Video: [Video4]
+* Make Turtle Bot: [Video1]
+* Map Building: [Video2](https://drive.google.com/file/d/16fwgHukxxWIACBCbv5pPLArvJXH90ths/view?usp=sharing)
+* Navigation: [Video3](https://drive.google.com/file/d/1qaVOjDZr-Q85A_sAbB6Edzm1jkSOOE5L/view?usp=sharing)
+* Demo Video: [Video4](https://drive.google.com/file/d/1X6E-v5ac14ctKGcTruY0jHRJaVdckNnJ/view?usp=sharing)
 
 # Preview
 * Turtle Bot Image
