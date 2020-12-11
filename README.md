@@ -13,8 +13,12 @@ Gachon University 2020 Fall semester
 
 # Preview
 * Map Building
+
 ![ScreenShot](map_building.png)
+
+
 * Navigation
+
 ![ScreenShot](navigation.png)
 
 # Video (2020/11/06 Fri.)
