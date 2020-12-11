@@ -11,6 +11,12 @@ Gachon University 2020 Fall semester
 2. Set the start point and destination point.
 3. Turtle bot is automatically navigate to the destination.
 
+# Preview
+* Map Building
+![ScreenShot](map_building.png)
+* Navigation
+![ScreenShot](navigation.png)
+
 # Video (2020/11/06 Fri.)
 * Make Turtle Bot: [Video1](https://youtu.be/0MVXXRaWSxQ)
 * Map Building: [Video2](https://drive.google.com/file/d/16fwgHukxxWIACBCbv5pPLArvJXH90ths/view?usp=sharing)
