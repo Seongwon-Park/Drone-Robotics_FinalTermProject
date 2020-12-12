@@ -31,3 +31,6 @@ Gachon University 2020 Fall semester
 * OS: VMware Ubuntu LTS 16.04 in Windows 10
 * ROS: ROS-kinetic
 * Turtle bot model: Turtle Bot 3
+
+# Attachment
+* Final Report: [WORD file](https://drive.google.com/file/d/10FxiFCmfBVljoypaR0gi0GblV-9kMgGt/view?usp=sharing)
