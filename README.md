@@ -22,10 +22,10 @@ Gachon University 2020 Fall semester
 ![ScreenShot](navigation.png)
 
 # Video (2020/11/06 Fri.)
-* Make Turtle Bot: [Video1](https://youtu.be/0MVXXRaWSxQ)
-* Map Building: [Video2](https://drive.google.com/file/d/16fwgHukxxWIACBCbv5pPLArvJXH90ths/view?usp=sharing)
-* Navigation: [Video3](https://drive.google.com/file/d/1qaVOjDZr-Q85A_sAbB6Edzm1jkSOOE5L/view?usp=sharing)
-* Demo Video: [Video4](https://drive.google.com/file/d/1X6E-v5ac14ctKGcTruY0jHRJaVdckNnJ/view?usp=sharing)
+* Make Turtle Bot: [[Video1](https://youtu.be/0MVXXRaWSxQ)]
+* Map Building: [[Video2](https://drive.google.com/file/d/16fwgHukxxWIACBCbv5pPLArvJXH90ths/view?usp=sharing)]
+* Navigation: [[Video3](https://drive.google.com/file/d/1qaVOjDZr-Q85A_sAbB6Edzm1jkSOOE5L/view?usp=sharing)]
+* Demo Video: [[Video4](https://drive.google.com/file/d/1X6E-v5ac14ctKGcTruY0jHRJaVdckNnJ/view?usp=sharing)]
 
 # Environment
 * OS: VMware Ubuntu LTS 16.04 in Windows 10
@@ -33,4 +33,4 @@ Gachon University 2020 Fall semester
 * Turtle bot model: Turtle Bot 3
 
 # Attachment
-* Final Report: [WORD file](https://drive.google.com/file/d/10FxiFCmfBVljoypaR0gi0GblV-9kMgGt/view?usp=sharing)
+* Final Report: [[WORD file](https://drive.google.com/file/d/10FxiFCmfBVljoypaR0gi0GblV-9kMgGt/view?usp=sharing)]
